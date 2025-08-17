@@ -1,0 +1,23 @@
+.wordstart{
+    font-size: 18px;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 18px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #5237f9;
+}
+
+.name{
+    font-size: 54px;
+    color: white;
+    font-weight: 700;
+    line-height: 1.19;
+}
+.job{
+    margin-bottom: 35px;
+    font-size: 54px;
+    color: #5237f9;
+    font-weight: 700;
+    line-height: 1.19;
+}
